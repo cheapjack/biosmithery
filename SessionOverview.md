@@ -1,4 +1,7 @@
-#Overview of the session:
+# Overview of the session:
+
+https://youtu.be/irDvxRpAetQ
+
 
  * Isadora interface
  * setting up webcams and other cameras
