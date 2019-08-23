@@ -4,6 +4,9 @@ Resources, invitation and overview for Sam Meech's interactive video workshop at
 
 ## Invitation
 
+### Wednesday 18th September 2019 11-4pm 
+
+#### RoomLIC - LICA A40 Computer Lab
 
 Artist [Sam Meech](http://smeech.co.uk/) is running an interactive video workshop on Lancaster University campus for BLS associates, researchers, students and teachers.
 

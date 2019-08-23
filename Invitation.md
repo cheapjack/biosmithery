@@ -1,6 +1,10 @@
 
 ## Invitation
 
+### Wednesday 18th September 2019 11-4pm 
+
+#### RoomLIC - LICA A40 Computer Lab
+
 Artist [Sam Meech](http://smeech.co.uk/) is running an interactive video workshop on Lancaster University campus for BLS associates, researchers, students and teachers.
 
 [Isadora](https://troikatronix.com/) is a powerful but very user friendly interactive video software that can be used to developed a variety of creative and technical projects. It can be used for projection mapping, interactive installation, VJing (that’s DJing with video), but also contains  some super simple camera tracking tools. 
