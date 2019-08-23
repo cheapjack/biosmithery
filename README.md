@@ -1,8 +1,9 @@
 # BioSmithery
 
-Resources, invitation and overview for Sam Meech's interactive video workshop at Lancaster University
+Resources, invitation and overview for Sam Meech's interactive video workshop at Lancaster University.
 
-## Invitation
+## Invitation
+
 
 Artist[Sam Meech](http://smeech.co.uk/) is running an interactive video workshop on Lancaster University campus for BLS associates, researchers, students and teachers.
 
