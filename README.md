@@ -16,9 +16,7 @@ This workshop will explore ways to use live camera inputs in a lab environment t
  
 Hopefully with this workshop you'll give you the confidence to build your own tools, either for art or research or both!
 
-
-## Getting Started
-
+## Getting Started
 
 Bring some headphones if possible 
 
