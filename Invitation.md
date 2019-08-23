@@ -1,5 +1,5 @@
 
-## Invitation
+## Invitation
 
 Artist[Sam Meech](http://smeech.co.uk/) is running an interactive video workshop on Lancaster University campus for BLS associates, researchers, students and teachers.
 
